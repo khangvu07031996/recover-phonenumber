@@ -10,6 +10,6 @@ Then, require the package and use it like so:
     var cover = require('recover-phonenumber');
 
 
-    console.log(cover("01673129597")); // 0373129597
+    console.log(cover("016731295xx")); // 03731295xx
 
 ## License
